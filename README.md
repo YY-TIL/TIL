@@ -18,4 +18,4 @@
 |  [조윤영](https://github.com/Choyoonyoung98)  |  [한예지](https://github.com/yeji9175)  |  
 | :----------: |  :--------:  | 
 | <img src="https://avatars.githubusercontent.com/u/39290117?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/39231606?v=4" width=200px alt="_"/> | 
-|iOS Dev.| Front-End Dev. | 
+| <img src="https://user-images.githubusercontent.com/39231606/123516779-c9b08180-d6d8-11eb-96be-1c3d9dc3ce9c.png" width=20px alt="_"/> iOS Dev. | Front-End Dev. | 
