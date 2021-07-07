@@ -4,7 +4,7 @@
 
 | 주차 | 일 | 월 | 화 | 수 | 목 | 금 | 토 | 
 | -------- | --- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | --- | 
-| `WEEK 1` | [27](https://github.com/YY-TIL/TIL/wiki/6_27) | [28](https://github.com/YY-TIL/TIL/wiki/6_28) | 29 | [30](https://github.com/YY-TIL/TIL/wiki/6_30)| 1 | [2](https://github.com/YY-TIL/TIL/wiki/7_02) | 3 | 
+| `WEEK 1` | [27](https://github.com/YY-TIL/TIL/wiki/6_27) | [28](https://github.com/YY-TIL/TIL/wiki/6_28) | [29](https://github.com/YY-TIL/TIL/wiki/6_29) | 30 | 1 | [2](https://github.com/YY-TIL/TIL/wiki/7_02) | 3 | 
 | `WEEK 2` | 4 | [5](https://github.com/YY-TIL/TIL/wiki/7_05) | [6](https://github.com/YY-TIL/TIL/wiki/7_06) | [7](https://github.com/YY-TIL/TIL/wiki/7_07)| [8](https://github.com/YY-TIL/TIL/wiki/7_08) | [9](https://github.com/YY-TIL/TIL/wiki/7_09) | [10](https://github.com/YY-TIL/TIL/wiki/7_10) | 
 | `WEEK 3` | [11]() | [12]() | [13]() | [14]()| [15]() | [16]() | [17]() | 
 | `WEEK 4` | [18]() | [19]() | [20]() | [21]()| [22]() | [23]() | [24]() | 
